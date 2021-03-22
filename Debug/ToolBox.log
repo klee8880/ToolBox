@@ -1,0 +1,49 @@
+﻿  Main.cpp
+c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(49): note: see reference to function template instantiation 'void printVector<int>(std::vector<int,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(53): warning C4018: '<': signed/unsigned mismatch
+  c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(52): note: see reference to function template instantiation 'void Rubix::bubbleSort<int>(std::vector<int,std::allocator<_Ty>> &,const int)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(392): warning C4018: '<': signed/unsigned mismatch
+  c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(107): note: see reference to function template instantiation 'void Rubix::countingSort<int>(std::vector<int,std::allocator<_Ty>> &,const int)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(445): warning C4018: '<': signed/unsigned mismatch
+  c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(125): note: see reference to function template instantiation 'void Rubix::radixSort<int>(std::vector<int,std::allocator<_Ty>> &,const int)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(471): warning C4018: '<': signed/unsigned mismatch
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(30): warning C4018: '<': signed/unsigned mismatch
+  c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(384): note: see reference to function template instantiation 'T Rubix::getMin<int>(const std::vector<int,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  c:\users\klee8\source\repos\toolbox\toolbox\main.cpp(107): note: see reference to function template instantiation 'void Rubix::countingSort<int>(std::vector<int,std::allocator<_Ty>> &,const int)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(17): warning C4018: '<': signed/unsigned mismatch
+  c:\users\klee8\source\repos\toolbox\toolbox\rubix.h(385): note: see reference to function template instantiation 'T Rubix::getMax<int>(const std::vector<int,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  ToolBox.vcxproj -> C:\Users\klee8\source\repos\ToolBox\Debug\ToolBox.exe
